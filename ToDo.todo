@@ -1,1 +1,4 @@
-1) Rozdelit praci, pripravit discord
+general rules
+    - naming convention
+        - use camel case for JSON == "camelCase"
+        - use snake_case for python variable == "snake_case"

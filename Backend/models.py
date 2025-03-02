@@ -1,0 +1,1 @@
+# models.py will contain class with database objects

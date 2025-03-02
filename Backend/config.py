@@ -1,0 +1,1 @@
+# config.py will contain configuration for databases and Flask
